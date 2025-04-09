@@ -7,6 +7,8 @@ public class C1 {
 
 		System.out.println("Prima linie de cod");
 		System.out.println("A doua linie de cod");
+		System.out.println("Linie test1");
+		
 
 	}
 
