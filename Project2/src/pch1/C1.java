@@ -6,6 +6,7 @@ public class C1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Prima linie de cod");
+		System.out.println("A doua linie de cod");
 	}
 
 }
