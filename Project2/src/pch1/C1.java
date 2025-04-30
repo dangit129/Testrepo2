@@ -9,6 +9,7 @@ public class C1 {
 		System.out.println("A doua linie de cod");
 		System.out.println("Linie test1");
 		System.out.println("Linie test2");
+		System.out.println("Linie test3");
 		
 
 	}
